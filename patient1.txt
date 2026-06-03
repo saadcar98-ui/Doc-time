@@ -1,1 +1,2 @@
 Patient is suffering from fever
+Patient need complete bed rest with some medicines
